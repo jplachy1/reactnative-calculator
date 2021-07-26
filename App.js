@@ -2,7 +2,6 @@ import { StatusBar } from "expo-status-bar";
 import React, { useCallback } from "react";
 import { StyleSheet, Text, View, Button } from "react-native";
 import MainCalcScreen from "./screens/MainCalcScreen";
-import Test from "./screens/Test";
 
 export default function App() {
   return <MainCalcScreen />;
